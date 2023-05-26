@@ -1,0 +1,9 @@
+* cl-lzma
+
+Common Lisp CFFI wrapper around a LZMA foreign library
+
+|---------+-----------------------------------------|
+| source  | git:https://github.com/phoe/cl-lzma.git |
+| commit  | 593c200                                 |
+| systems | cl-lzma                                 |
+|---------+-----------------------------------------|
